@@ -31,6 +31,7 @@
 | [lexicon-fullstack-proyecto](https://github.com/axbrogi23/lexicon-fullstack-proyecto) | Evaluación Nro 2 Fullstack | Java |
 | [innovatech-devops-final](https://github.com/axbrogi23/innovatech-devops-final) | Proyecto final con contenedores | Dockerfile |
 | [Fullstack-1](https://github.com/axbrogi23/Fullstack-1) | Prácticas Fullstack | HTML |
+| [AkumaTech_SpringBoot](https://github.com/axbrogi23/AkumaTech_SpringBoot) | Proyecto basado en frontend y backend | HTML, JavaScript, CSS, React|
 
 ---
 
